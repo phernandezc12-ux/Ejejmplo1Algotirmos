@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        String nombre,edad;
+        String nombre,edad,telefono;
         Scanner lector=new Scanner(System.in);
            System.out.println("Ingrese su nombre");
            nombre=lector.next();
