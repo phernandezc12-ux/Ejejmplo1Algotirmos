@@ -19,5 +19,7 @@ public class Mavenproject1 {
            nombre=lector.next();
         System.out.println("Ingrese su edad");
         edad=lector.next();
+        System.out.println("Ingrese su edad");
+        telefono=lector.next();
     }
 }
